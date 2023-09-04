@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automating ColorNote App" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-04T08:24:50" hostname="GEMGN-220007" time="120.304">
+  <properties/>
+  <testcase name="User opens the app and performs tasks" classname="Automating ColorNote App" time="120.304"/>
+  <system-out><![CDATA[1:55 PM
+1:55 PM
+1:55 PM
+1:55 PM
+1:55 PM
+]]></system-out>
+  <system-err><![CDATA[Sep 04, 2023 1:55:08 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
